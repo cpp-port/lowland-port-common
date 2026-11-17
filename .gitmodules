@@ -1,0 +1,8 @@
+[submodule "debugbreak"]
+	path = debugbreak
+	url = ../../scottt/debugbreak
+	branch = master
+[submodule "rapidjson"]
+	path = rapidjson
+	url = ../../Tencent/rapidjson
+	branch = master
